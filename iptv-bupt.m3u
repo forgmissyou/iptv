@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,纯享4K
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1,中天新闻 FHD ★-1080P
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1,TVBS新闻 FHD ★-1080P
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1,CHC高清电影-1080P
 rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 #EXTINF:-1,CCTV-第一剧场-1080P
@@ -223,9 +217,3 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
 #EXTINF:-1,CETV-4-576P
 rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
-#EXTINF:-1,香港卫视-576P
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,耀才财经-576P
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8 
-#EXTINF:-1,万载综合频道-480P
-http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
